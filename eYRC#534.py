@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
 '''
-* Team Id :		534
-* Author List :		Saksham Katiyar, Prankur Verma, Rishabh Handa, Saumya Singhal
-* Filename:		eYRC#534.py
+* Author:		Prankur Verma
 * Theme:		Chaser Drone
 * Functions:		__init__(self)
 			getMarkerPose(self, data)
